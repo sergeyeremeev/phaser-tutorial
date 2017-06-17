@@ -1,0 +1,22 @@
+{
+  "name": "phaser-tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial for making simple JS games with Phaser engine",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  },
+  "devDependencies": {
+    "phaser-ce": "^2.8.0"
+  },
+  "scripts": {
+    "server": "http-server ./hellophaser"
+  },
+  "keywords": [
+    "Phaser",
+    "game",
+    "tutorial"
+  ],
+  "author": "Sergey Eremeev",
+  "license": "ISC"
+}
